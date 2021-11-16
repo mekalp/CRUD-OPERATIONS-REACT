@@ -1,0 +1,36 @@
+.frm{
+
+    border: 2px solid blue;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+
+
+}
+
+
+.table{
+   
+    border: 2px solid green;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+
+.tr{
+
+   border: 1px solid green;
+
+}
+
+.lot{
+
+
+    border: 2px solid orangered;
+    margin-bottom: 50px;
+}
